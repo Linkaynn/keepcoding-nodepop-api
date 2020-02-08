@@ -1,8 +1,6 @@
-# UPDATE Módulo devops -- 20.01.2020
+# Fork author comment
 
-La práctica desplegada se puede encontrar en el siguiente enlace: http://bernaldev.com
-
-Para acceder a la web estática del primer módulo de fundamentos web se debe acceder por IP: http://18.222.180.171
+This forks implements login and register service
 
 # Practica del módulo de backend node.js de KeepCoding
 
